@@ -1,0 +1,5 @@
+n = int(input())
+t = list(enumerate(map(int, input().split())))
+t.sort(key=lambda x: x[1])
+print(*[x[0] + 1 for x in t])
+print('{:.2f}'.format(sum(t[i][1] * (n - i - 1) for i in range(n - 1)) / n))

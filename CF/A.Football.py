@@ -1,0 +1,1 @@
+print('YES' if '1' * 7 in (s := input()) or '0' * 7 in s else 'NO')
