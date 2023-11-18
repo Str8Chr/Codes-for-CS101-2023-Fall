@@ -105,8 +105,6 @@ A
 OJ/02287tianji.py,7\d\7d617c8926e8d9866dd1490d6ce8654e16209875
 J
 OJ/04005competitivegame.py,f\2\f215c103ed49a5173fba9b206b6671ca185d30d4
->
-primefactor.py,2\d\2dfe184b929e4b8eb587ec1d3e64d9e0a4444c8e
 F
 OJ/02181jumpingcows.py,a\b\ab2932b230143588bd2af2d54a31ff45d2ae5118
 J
@@ -189,3 +187,15 @@ I
 OJ/04135monthlyexpense.py,e\9\e9a8ab34da02275f32eb5a11c19bfe9d775423b4
 H
 OJ/04119integerdevide.py,b\8\b85d064164452c7df9c1ad55a2f7932890dc45cd
+L
+OJ/12558perimeterofisland.py,5\a\5a496f4385c967a88a8ae3d8200591463d63b30c
+F
+OJ/02760numtriangle.py,a\3\a300680ecd04826c3994473e34398365e2e87d13
+F
+OJ/02773gatherherbs.py,b\3\b30c4b99988812be1beb28f245fdbf229be5a04b
+G
+OJ/18106spiralmatrix.py,3\e\3e6e34d97f8c95dc2f3dc9118b936eb66a98a51a
+A
+CF/A.CutRibbon.py,b\8\b8bd3f4d965e0230f9acfe222f78776f4318793c
+?
+CF/A.Boredom.py,3\0\308d1c4ad785505a07c913aaf5907fd9b602af38
