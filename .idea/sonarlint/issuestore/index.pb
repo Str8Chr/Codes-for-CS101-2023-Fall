@@ -25,8 +25,6 @@ D
 OJ/H25353linecopy.py,2\2\229cf63f12658bb6b60ed3e6ba85ec186ee3d0a3
 N
 OJ/01004financialmanagement.py,1\9\1910804f5d3f8ffeff22cb3437b02ba445aa5d3a
-H
-OJ/01002phone487-3279.py,3\d\3d19d626f3964d83fe73f404b7e9906d007bd4ca
 D
 OJ/04150computing.py,a\f\af934754e8b8f28b6d2649c7650fcbeb318159a6
 H
@@ -215,3 +213,21 @@ H
 OJ/27104worldcupchick.py,3\2\328a06d742708f9ab5b313da7a4f84589fc5fe92
 ?
 OJ/20090unit.py,c\9\c905ab75957adbefaba7cec8e72e4625cc68350d
+E
+CF/C.PerfectSquare.py,2\9\2918a5389d6bd14c441446fa243b66605827d3b5
+K
+OJ/02694polandexpression.py,a\1\a10110cb0fcd21bf76c9f4ddbbd47dd1f69f224d
+J
+OJ/18160maxconnectivity.py,a\e\ae377da6d65500f57e8ab78899101d59cf80f556
+E
+OJ/02754eightqueen.py,5\c\5c0ae6f2a18bdd4bb054c23e871dd5c4b8d86ba3
+F
+OJ/18146crowonboard.py,2\e\2e0ccb2ddae790fd68fdc38983f1ab1eb7cffc66
+C
+OJ/01003hangover.py,2\2\2252eeea4ba0b6ae1b485105046a08a64c2ca70d
+K
+OJ/25572crabpickmushroom.py,7\a\7a5373e4c28fd91a38cb56517e5e2329a8532922
+G
+OJ/27205rangershouse.py,5\c\5c2cd85c4c7437c2d7e329de649e77b98191e71e
+H
+OJ/02810perfecttriple.py,d\6\d60d5067f584aff19412dbfa8c1060f11f2ef499
