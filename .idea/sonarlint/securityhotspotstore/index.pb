@@ -9,20 +9,6 @@ R
 "OJ/02692counterfeitcoin_refined.py,7\1\718d12c75b82b4bf073761798d8540af9f0d1845
 G
 OJ/25561doubleeleven.py,b\d\bd3b40fdea077e76a68d77113e5ec6e4f896bb49
-G
-OJ/E02750chickrabbit.py,2\9\292b6ac7c675eaf063fb5fd9c5539ad2ef2af670
-G
-OJ/E02689upperlowwer.py,8\0\80b1626bde3a85496ee3c263d7e3972e7f387002
-G
-OJ/E01218drunkjailor.py,9\2\9296997b389cb96e10fc016543f345291f06f224
-H
-OJ/E02808treesoutside.py,3\3\33ef5108f7601169b5af4d178879c18de679595c
-A
-OJ/E02733years.py,9\3\93b9cdea97cfbbe1f73238dafc796c73432355d0
-@
-OJ/H25353line.py,0\4\0428431384f5f4265d2299153f997bb28e067850
-D
-OJ/H25353linecopy.py,2\2\229cf63f12658bb6b60ed3e6ba85ec186ee3d0a3
 N
 OJ/01004financialmanagement.py,1\9\1910804f5d3f8ffeff22cb3437b02ba445aa5d3a
 D
@@ -75,20 +61,6 @@ E
 OJ/02802littlegame.py,4\b\4b1f0968424888ca366068a6499723fe73d41c2c
 O
 OJ/02802littlegame_recursion.py,b\9\b9892b150412fefdab2ef32000650fa7bce88dda
-B
-OJ/E2701not7num.py,f\f\ff4dda85cad23d16077956c550ef56ff6a9f5ead
-?
-OJ/E2753fbnq.py,f\4\f4354a0ba82601dbc76e0e1416522e61703999f4
-K
-OJ/E4138primesumandmulti.py,4\1\4100c72460f735d58e773575e9f47f75530d712f
-C
-OJ/E2712bacteria.py,7\7\77172efb928d24145cdf3dac31e8a4fec31dec51
-H
-OJ/E2810perfecttriple.py,c\e\ce831c5ecc049eb560dd428a9db99180b0a21197
-C
-OJ/M2746josephus.py,1\b\1b62d70d012688d45e37eefa3fa709b393566b62
-C
-OJ/E4146numblock.py,a\7\a7fa3bf44899f8cc18ca6ef11f09072b5a197667
 =
 CF/A.XXXXX.py,1\0\10cb8e0f223468c9789be5d0f2bb65d41d3afa23
 A
@@ -175,8 +147,6 @@ J
 CF/C.TheDeliveryDilemma.py,1\6\16b7e606dd0cb23327bae237b92d253b84bfd363
 D
 Unsolved/04126dna.py,f\4\f4799bb247660d25ca0257d1da05ca955908cdd4
-R
-"CF/1855BLongestDivisorsInterval.py,a\f\af69e28d47c7a12d8bf0c704f8bcbeda4e76eeb1
 @
 OJ/25573roses.py,c\d\cdbcbb65eb5c28ca78d9150491a2f2161ab81abf
 G
@@ -231,3 +201,9 @@ G
 OJ/27205rangershouse.py,5\c\5c2cd85c4c7437c2d7e329de649e77b98191e71e
 H
 OJ/02810perfecttriple.py,d\6\d60d5067f584aff19412dbfa8c1060f11f2ef499
+G
+OJ/02766maxsubmatrix.py,2\c\2c7cc3160ec458ba392733a0cd6fec2c804c0bee
+I
+OJ/04030calculatewirds.py,4\1\415cbc1cab95473685016bc7d5f6c5311e85d126
+I
+OJ/04030calculatewords.py,7\0\70c5fe5d6abbb243bfc53338c2c5b8988f299ca0
