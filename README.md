@@ -1,6 +1,6 @@
 # Codes for CS101 Fall
 
-Contributed by `stretcher`
+Contributed by `stretcher`， 2023.12.28
 
 这些代码是本人这学期于计概课在code forces平台上作业代码以及在open judge平台上所有代码的最终版本。由于这些代码本来并非用于交流，因此部分代码可能可读性较差，但聊胜于无吧。
 
